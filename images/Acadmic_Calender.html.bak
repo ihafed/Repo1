@@ -1,0 +1,168 @@
+<html>
+<head>
+<title>Student Services</title>
+<link REL="stylesheet" href="styl_shet.css" type="text/css"></link>
+
+</head>
+<body bgcolor="#D3D3D3">
+<div id="wrapper">
+<div id="header">
+</div>
+<div id="left_side">
+<table align="center">
+<tr><td>
+<a href="master_page.html"><img src="images/homepage.jpg" width="130" height="40" alt="" border="0" /></a>
+
+</td></tr>
+<tr><td>
+
+<a href="Register.html"><img src="images/reg.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+<a href="Acadmic_Calender.html"><img src="images/Acadmic.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+<a href="Study_plan.html"><img src="images/Study Plan.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+<a href="Vote_page.html"><img src="images/Vote Page.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+
+<a href="Guset_book.html"><img src="images/Guset Book.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+
+<a href="Admissons.html"><img src="images/Admissons.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+<a href="News.html"><img src="images/News.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+<tr><td>
+
+
+<a href="FQA.html"><img src="images/fqa.jpg" width="130" height="40" alt="" border="0" /></a>
+</td></tr>
+
+<br>
+</table>
+
+</div>
+
+
+<div id="body_section">
+<p dir="rtl"><font size="4" color="#FFFAFA">
+&nbsp; &nbsp; &nbsp;гАйчФЦ гАоягсМ АзгЦ 1432 / 1433Еэ 
+</font>
+</p>
+<pre dir="rtl">
+<font size="3" color="#FFFAFA">
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАгФА МФЦ гАсхй 12 / 10 / 1432Еэ
+&nbsp; &nbsp;глгри гАМФЦ гАФьДМ МФЦ гАсхй 26 / 10 / 1432Еэ
+&nbsp; &nbsp;хогМи глгри зМо гАгжмЛ ДЕгМи оФгЦ гАгкДМД 4 / 12 / 1432Еэ
+&nbsp; &nbsp;хогМи гАоягси хзо глгри зМо гАгжмЛ МФЦ гАсхй 16 / 12 / 1432Еэ
+&nbsp; &nbsp;хогМи гнйхгя гАщуА гАоягсМ гАгФА МФЦ гАсхй 13 / 2 / 1433Еэ
+&nbsp; &nbsp;хогМи глгри ЦДйущ гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 24 / 2 / 1433Еэ
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАоягсМ гАкгДМ МФЦ гАсхй 5 / 3 / 1433Еэ
+&nbsp; &nbsp;хогМи глгри ЦДйущ гАщуА гАкгДМ ДЕгМи оФгЦ МФЦ гАгяхзга 28 / 4 / 1433Еэ 
+&nbsp; &nbsp;хогМи гАоягси хзо глгри ЦДйущ гАщуА гАкгДМ МФЦ гАсхй 8 / 5 / 1433Еэ
+&nbsp; &nbsp;хогМи гнйхгягй гАщуА гАкгДМ МФЦ гАсхй 5 / 7 / 1433Еэ
+&nbsp; &nbsp;хогМи глгри ДЕгМи гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 16 / 7 / 1433Еэ
+&nbsp; &nbsp;хогМи гАзгЦ гАоягсМ 1433 / 1434Еэ МФЦ гАсхй 14 / 10 / 1433Еэ
+&nbsp; &nbsp;ФхпАъ йъФД зоо гМгЦ гАоягси ААщуА гАгФА 18 гсхФзг Ф 3 гМгЦ 
+&nbsp; &nbsp;Фзоо гсгхМз гАоягси ААщуА гАкгДМ 18 гсхФзг 
+&nbsp; &nbsp;Фзоо гМгЦ гАоягси гАщзАМи ААщуАМД 177 МФЦг 
+&nbsp; &nbsp;Ф зоо гАглгргй гкДга гАоягси 4 глгргй 
+&nbsp; &nbsp;Фзоо гМгЦ глгри зМо гАгжмЛ 11 МФЦг 
+&nbsp; &nbsp;Фзоо гМгЦ глгри ЦДйущ гАзгЦ 9 гМгЦ
+</font>
+</pre>
+<p dir="rtl"><font size="4" color="#FFFAFA">
+&nbsp; &nbsp; &nbsp;гАйчФМЦ гАоягсМ АзгЦ 1433 / 1434Еэ 
+</font>
+</p>
+<pre dir="rtl">
+<font size="3" color="#FFFAFA">
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАгФА МФЦ гАсхй 14 / 10 / 1433 Еэ
+&nbsp; &nbsp;цлгри гАМФЦ гАФьДМ МФЦ гАгмо 7 / 11 / 1433Еэ
+&nbsp; &nbsp;хогМи елгри зМо гАгжмЛ ДЕгМи оФгЦ МФЦ гАгяхзга 1 / 12 / 1433 Еэ
+&nbsp; &nbsp;хогМи гАоягси хзо елгри зМо гАгжмЛ МФЦ гАсхй 18 / 12 / 1433 Еэ
+&nbsp; &nbsp;хогМи гнйхгя гАщуА гАоягсМ гАгФА МФЦ гАсхй 23 / 2 / 1434Еэ
+&nbsp; &nbsp;хогМи елгри ЦДйущ гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 4 / 3 / 1434Еэ.
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАоягсМ гАкгДМ МФЦ гАсхй 14 / 3 / 1434Еэ
+&nbsp; &nbsp;хогМи елгри ЦДйущ гАщуА гАкгДМ ДЕгМи оФгЦ МФЦ гАгяхзга 8 / 5 / 1434Еэ
+&nbsp; &nbsp;хогМи гАоягси хзо елгри ЦДйущ гАщуА гАкгДМ МФЦ гАсхй 18 / 5 / 1434Еэ
+&nbsp; &nbsp;хогМи гнйхгягй ААщуА гАкгДМ МФЦ гАсхй 15 / 7 / 1434Еэ
+&nbsp; &nbsp;хогМи елгри ДЕгМи гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 26 / 7 / 1434Еэ
+&nbsp; &nbsp;хогМи гАзгЦ гАоягсМ 1434 / 1435 Еэ МФЦ гАсхй 24 / 10 / 1434Еэ
+</font>
+</pre>
+
+
+<p dir="rtl"><font size="4" color="#FFFAFA">
+&nbsp; &nbsp; &nbsp;гАйчФМЦ гАоягсМ АзгЦ 1434 / 1435 Еэ 
+</font>
+</p>
+<pre dir="rtl">
+<font size="3" color="#FFFAFA">
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАгФА МФЦ гАсхй 24 / 10 / 1434Еэ . 
+&nbsp; &nbsp;елгри гАМФЦ гАФьДМ МФЦ гАгкДМД 17 / 11 / 1434Еэ .
+&nbsp; &nbsp;хогМи елгри зМо гАгжмЛ ДЕгМи оФгЦ МФЦ гАгяхзга 4 / 12 / 1434Еэ.
+&nbsp; &nbsp;хогМи гАоягси хзо елгри зМо гАгжмЛ МФЦ гАгкДМД 16 /12 / 1434Еэ .
+&nbsp; &nbsp;хогМи гнйхгя гАщуА гАоягсМ гАгФА МФЦ гАсхй 3 / 3 / 1435Еэ .
+&nbsp; &nbsp;хогМи елгри ЦДйущ гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 14 / 3 / 1435Еэ .
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАоягсМ гАкгДМ МФЦ гАсхй 24 / 3 / 1435Еэ .
+&nbsp; &nbsp;хогМи елгри ЦДйущ гАщуА гАкгДМ ДЕгМи оФгЦ МФЦ гАгяхзга 18 / 5 / 1435Еэ .
+&nbsp; &nbsp;хогМи гАоягси хзог елгри ЦДйущ гАщуА гАкгДМ МФЦ гАсхй 28 / 5 / 1435Еэ . 
+&nbsp; &nbsp;хогМи гнйхгягй гАщуА гАкгДМ МФЦ гАсхй 25 / 7 / 1435Еэ .
+&nbsp; &nbsp;хогМи цлгри ДЕгМи гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 6 / 8 / 1435Еэ .
+&nbsp; &nbsp;хогМи гАзгЦ гАоягсМ 1435 / 1436Еэ МФЦ гАсхй 4 / 11 / 1435Еэ .
+</font>
+</pre>
+
+
+<p dir="rtl"><font size="4" color="#FFFAFA">
+&nbsp; &nbsp; &nbsp;гАйчФМЦ гАоягсМ АзгЦ 1435 / 1436Еэ
+</font>
+</p>
+<pre dir="rtl">
+<font size="3" color="#FFFAFA">
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАгФА МФЦ гАсхй 4 / 11 / 1435Еэ .
+&nbsp; &nbsp;елгри гАМФЦ гАФьДМ МФЦ гАкАгкга 28 / 11 / 1435Еэ .
+&nbsp; &nbsp;хогМи елгри зМо гАгжмЛ ДЕгМи оФгЦ МФЦ гАгмо 4 / 12 / 1435Еэ .
+&nbsp; &nbsp;хогМи гАоягси хзо елгри зМо гАгжмЛ МФЦ гАсхй 17 / 12 / 1435Еэ .
+&nbsp; &nbsp;хогМи гнйхгя гАщуА гАоягсМ гАгФА МФЦ гАсхй 12 / 3 / 1436Еэ .
+&nbsp; &nbsp;хогМи елгри ЦДйущ гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 23 / 3 / 1436Еэ .
+&nbsp; &nbsp;хогМи гАоягси ААщуА гАоягсМ гАкгДМ МФЦ гАсхй 4 / 4 / 1436Еэ .
+&nbsp; &nbsp;хогМи елгри ЦДйущ гАщуА гАкгДМ ДЕгМи оФгЦ МФЦ гАгяхзга 27 / 5 / 1436Еэ .
+&nbsp; &nbsp;хогМи гАоягси хзог елгри ЦДйущ гАщуА гАкгДМ МФЦ гАсхй 8 / 6 / 1436Еэ .
+&nbsp; &nbsp;хогМи гнйхгягй гАщуА гАкгДМ МФЦ гАсхй 5 / 8 / 1436Еэ .
+&nbsp; &nbsp;хогМи елгри ДЕгМи гАзгЦ ДЕгМи оФгЦ МФЦ гАгяхзга 16 / 8 / 1436Еэ .
+&nbsp; &nbsp;хогМи гАзгЦ гАоягсМ 1436 / 1437Еэ МФЦ гАсхй 7 / 11 / 1436Еэ 
+</font>
+</pre>
+</br>
+</br>
+</br>
+</br>
+</div>
+
+
+<div id="right_side">
+
+</div>
+<div id="footer">
+<h5 align="center">copyrights by Mohamed group</h5>
+
+
+</div>
+</div>
+
+</body>
+</html>
